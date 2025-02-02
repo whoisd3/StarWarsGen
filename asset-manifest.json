@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StarWarsGen/static/css/main.c4f16791.chunk.css",
+    "main.js": "/StarWarsGen/static/js/main.57ae8559.chunk.js",
+    "main.js.map": "/StarWarsGen/static/js/main.57ae8559.chunk.js.map",
+    "runtime~main.js": "/StarWarsGen/static/js/runtime~main.d85faf1c.js",
+    "runtime~main.js.map": "/StarWarsGen/static/js/runtime~main.d85faf1c.js.map",
+    "static/js/2.2b5218a5.chunk.js": "/StarWarsGen/static/js/2.2b5218a5.chunk.js",
+    "static/js/2.2b5218a5.chunk.js.map": "/StarWarsGen/static/js/2.2b5218a5.chunk.js.map",
+    "index.html": "/StarWarsGen/index.html",
+    "precache-manifest.a8771f8d0b503d869d00ee1a86cb2eae.js": "/StarWarsGen/precache-manifest.a8771f8d0b503d869d00ee1a86cb2eae.js",
+    "service-worker.js": "/StarWarsGen/service-worker.js",
+    "static/css/main.c4f16791.chunk.css.map": "/StarWarsGen/static/css/main.c4f16791.chunk.css.map"
+  }
+}
